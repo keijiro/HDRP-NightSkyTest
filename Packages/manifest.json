@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.unity.render-pipelines.high-definition": "17.0.2",
+    "com.unity.render-pipelines.high-definition": "17.0.3",
     "jp.keijiro.shadergraphassets": "2.5.2"
   },
   "scopedRegistries": [
